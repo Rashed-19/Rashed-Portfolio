@@ -1,13 +1,13 @@
 # JS Portfolio Website
 
-[🔗Live Demo🔗](https://sajib.vercel.app/)
+[🔗Live Demo🔗](https://rashed-portfolio-ea478f.netlify.app/)
 
 ![Protfolio Website](https://i.ibb.co/N7xKjdQ/Screenshot-17.png)
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/19sajib/portfolio?color=yellow)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-</div>
+<!-- ![GitHub repo size](https://img.shields.io/github/repo-size/19sajib/portfolio?color=yellow)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+</div> -->
 
 <table align="center">
     <thead align="center">
@@ -22,7 +22,7 @@
      </thead>
     <tbody>
          <tr>
-            <td><a href="https://github.com/19sajib/portfolio"</a>Project</td>
+            <td><a href="https://github.com/Rashed-19/Rashed-Portfolio/tree/main"</a>Project</td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/19sajib/portfolio?style=flat&logo=github"/></td>
              <td><img alt="Forks" src="https://img.shields.io/github/forks/19sajib/portfolio?style=flat&logo=github"/></td>
             <td><img alt="Issues" src="https://img.shields.io/github/issues/19sajib/portfolio?style=flat&logo=github"/></td>
