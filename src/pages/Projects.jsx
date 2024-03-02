@@ -45,8 +45,8 @@ const Projects = () => {
               imgPath={kickstart}
               isBlog={false}
               title="E‑Commerce Website"
-              description="This ecommerce website utilizes a REST API built with Nodejs and Expressjs, allowing for easy CRUD operations on user profiles, products and admin panel. The user interface is designed for efficient product management and includes a complete purchase process. The admin panel, accessible for CRUD on users and products, includes a chart for statistics display. Stripe API is integrated to handle customer payments. The website uses MongoDB and Firebase as the database."
-              ghLink="https://github.com/19sajib/mern-stack-ecommerce"
+              // description="This ecommerce website utilizes a REST API built with Nodejs and Expressjs, allowing for easy CRUD operations on user profiles, products and admin panel. The user interface is designed for efficient product management and includes a complete purchase process. The admin panel, accessible for CRUD on users and products, includes a chart for statistics display. Stripe API is integrated to handle customer payments. The website uses MongoDB and Firebase as the database."
+              // ghLink="https://github.com/19sajib/mern-stack-ecommerce"
             />
           </Col>
 
