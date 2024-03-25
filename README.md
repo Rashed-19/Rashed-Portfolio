@@ -2,7 +2,7 @@
 
 [🔗Live Demo🔗](https://rashed-portfolio-ea478f.netlify.app/)
 
-<!-- ![Protfolio Website](https://i.ibb.co/N7xKjdQ/Screenshot-17.png) -->
+![Protfolio Website](https://i.ibb.co/N7xKjdQ/Screenshot-17.png)
 
 <div align="center">
 
@@ -22,7 +22,7 @@
      </thead>
     <tbody>
          <tr>
-            <td><a href="https://github.com/Rashed-19/Rashed-Portfolio/tree/main"</a>Project</td>
+            <td><a> href="https://github.com/Rashed-19/Rashed-Portfolio/tree/main"</a>Project</td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/19sajib/portfolio?style=flat&logo=github"/></td>
              <td><img alt="Forks" src="https://img.shields.io/github/forks/19sajib/portfolio?style=flat&logo=github"/></td>
             <td><img alt="Issues" src="https://img.shields.io/github/issues/19sajib/portfolio?style=flat&logo=github"/></td>

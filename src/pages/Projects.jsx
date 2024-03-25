@@ -36,19 +36,19 @@ const Projects = () => {
               isBlog={false}
               title="Social Media"
               description="This platform features a responsive interface built with Reactjs and CSS, allowing users to easily manage their profiles and posts through CRUD activities. The option to follow other users and interact with their posts (like or dislike) is also available, with suggestions for new users to follow. Users can only view posts from their followed users and can only engage in chat with those they follow. The backend is powered by Nodejs and Expressjs server, while MongoDB is utilized as the database."
-              ghLink="https://github.com/19sajib/social-media"
+              ghLink="https://github.com/Rashed-19/Social-Media"
             />
-          </Col>
+          </Col>``
 
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={kickstart}
               isBlog={false}
               title="E‑Commerce Website"
-              // description="This ecommerce website utilizes a REST API built with Nodejs and Expressjs, allowing for easy CRUD operations on user profiles, products and admin panel. The user interface is designed for efficient product management and includes a complete purchase process. The admin panel, accessible for CRUD on users and products, includes a chart for statistics display. Stripe API is integrated to handle customer payments. The website uses MongoDB and Firebase as the database."
-              // ghLink="https://github.com/19sajib/mern-stack-ecommerce"
+              description="This ecommerce website utilizes a REST API built with Nodejs and Expressjs, allowing for easy CRUD operations on user profiles, products and admin panel. The user interface is designed for efficient product management and includes a complete purchase process. The admin panel, accessible for CRUD on users and products, includes a chart for statistics display. Stripe API is integrated to handle customer payments. The website uses MongoDB and Firebase as the database."
+              ghLink="https://github.com/Rashed-19/Mern-Stack-Ecommerce"
             />
-          </Col>
+          </Col>``
 
           <Col md={4} className="project-card">
             <ProjectCard
