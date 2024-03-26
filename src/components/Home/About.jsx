@@ -88,7 +88,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://twitter.com/19sajib"
+                      // href="https://twitter.com/19sajib"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"

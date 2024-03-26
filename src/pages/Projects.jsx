@@ -26,7 +26,7 @@ const Projects = () => {
               isBlog={false}
               title="Lift-Buddy"
               description="This online ride-sharing platform boasts a responsive front-end design, complete with an admin panel built using React and Material-UI. With the integration of Google Maps API, users can easily access directions on the map. The platform allows for full CURD functionality on profiles and posts, and users can confirm or cancel a ride from a post and message each other after confirmation. Additionally, users can easily reset their password. The back-end is powered by a Node Express server and utilizes MongoDB for the database management."
-              ghLink=""
+              ghLink="https://github.com/Rashed-19/lift-buddy"
             />
           </Col>
 
@@ -56,7 +56,7 @@ const Projects = () => {
               isBlog={false}
               title="Blog Website"
               description="This blogging application features a RESTful API server built with Nodejs and Expressjs. The data is retrieved from the API server and displayed on a user-friendly interface designed using React, Redux, and styled-components for a seamless experience."
-              ghLink="https://github.com/19sajib/mern-blog-app"
+              // ghLink="https://github.com/Rashed-19/Mern-Blog-app"
             />
           </Col>
 
@@ -66,7 +66,7 @@ const Projects = () => {
               isBlog={false}
               title="Project Krypto"
               description="Project Krypto is a Web 3 project that utilizes an Ethereum smart contract created using Solidity. It allows users to interact with their Metamask wallet and send Ethereum."
-              ghLink="https://github.com/19sajib/Project-Krypto-Web-3.0"
+              ghLink="https://github.com/Rashed-19/Project-Crypto"
               demoLink="https://project-krypto.netlify.app/"
             />
           </Col>
@@ -77,7 +77,7 @@ const Projects = () => {
               isBlog={false}
               title="Solidity Kickstart"
               description="Solidity Kickstart is a Web 3 project that utilizes an Ethereum smart contract created using Solidity. It includes all the functionality of a kickstart platform, enabling users to interact with their Metamask wallet, transfer Ethereum and participate in kickstart campaigns."
-              ghLink="https://github.com/19sajib/Solidity-Kickstart"
+              ghLink="https://github.com/Rashed-19/solidity-kickstart"
             />
           </Col>
         </Row>
