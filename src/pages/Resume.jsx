@@ -4,14 +4,15 @@ import Button from "react-bootstrap/Button";
 import { AiOutlineDownload } from "react-icons/ai";
 
 import Particle from '../components/Particle'
-import pdf from "../assets/Rashed's.resume.pdf";
+import pdf from "../assets/Resume of Rashed.pdf";
 
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 import "react-pdf/dist/esm/Page/TextLayer.css";
-// pdfjs.GlobalWorkerOptions.workerSrc = `https://cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
+pdfjs.GlobalWorkerOptions.workerSrc = `https://www.canva.com/design/DAGDZ1wjcdU/XZINb3QQvWrC1p-purw7Lw/edit`;
 
-const resumeLink = `https://raw.githubusercontent.com/19sajib/portfolio/main/src/assets/sajib.pdf`
+pdfjs.GlobalWorkerOptions.workerSrc = `https://www.canva.com/design/DAGDZ1wjcdU/XZINb3QQvWrC1p-purw7Lw/edit`;
+const resumeLink = `https://www.canva.com/design/DAGDZ1wjcdU/XZINb3QQvWrC1p-purw7Lw/edit`
 
 
 const Resume = () => {
