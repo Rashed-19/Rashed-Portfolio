@@ -38,7 +38,7 @@ const About = () => {
                   <b className="yellow"> GraphQL, and Solidity.</b>
                   <br />
                   <br />
-                  I have a passion for working
+                  I have dd a passion for working
                   with <b className="yellow">Node.js, MongoDB,</b> and
                   <i>
                     <b className="yellow">
