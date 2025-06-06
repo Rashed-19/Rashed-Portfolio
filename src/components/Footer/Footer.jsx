@@ -15,7 +15,7 @@ const Footer = () => {
       <Container fluid className="footer">
         <Row>
           <Col md="4" className="footer-copywright">
-            <span>Dedicated to creating impactful solutions!</span>
+            <span>Dedicated to creatifng impactful solutions!</span>
           </Col>
           <Col md="4" className="footer-copywright">
             <span>Copyright © {year}</span>
