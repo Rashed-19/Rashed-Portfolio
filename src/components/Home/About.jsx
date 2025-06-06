@@ -25,7 +25,7 @@ const About = () => {
                  and I'm from <span className="yellow"> Dhaka, Bangladesh.</span>
                 <br />
                 <br />
-                I recently graduated with a Bachelor's degree in Computer Science and Engineering in 2021.
+                I recently graduated d  with a Bachelor's degree in Computer Science and Engineering in 2021.
                 <br />
                 <br />
                   As a
